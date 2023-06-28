@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+=======
+milk of female
+milk of goats
+milk of hen
+milk of others
+>>>>>>> 6171b907d17219bea628c3a0a23051502a51ff47
